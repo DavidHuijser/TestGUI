@@ -1,7 +1,10 @@
 ##################################
 #
 # RUN WITH THE FOLLOWING COMMAND: python3 Excecuter.py
-##############
+#
+# Version 1.01
+#
+############################################
 
 import PyInstaller.__main__
 import os
